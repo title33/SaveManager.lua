@@ -1,7 +1,7 @@
 local httpService = game:GetService('HttpService')
 
 local SaveManager = {} do
-    SaveManager.Folder = 'LynIx Hub'
+    SaveManager.Folder = 'Reach Hub'
     SaveManager.Ignore = {}
     SaveManager.Parser = {
         Toggle = {
